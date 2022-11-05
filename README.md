@@ -1,6 +1,6 @@
 # Fashion-Brand-Website
 
-This is clothing brand website that I developed. 
+This is clothing brand website that I developed using Webflow. 
 
 Project link:https://fashion-lm.webflow.io/
 
