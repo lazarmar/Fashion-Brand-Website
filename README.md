@@ -1,6 +1,6 @@
 # Fashion-Brand-Website
 
-This is website for music album Old Churh Basemant from the Elevation Worship music group that I recreated.
+This is clothing brand website that I developed. 
 
 Project link:https://fashion-lm.webflow.io/
 
